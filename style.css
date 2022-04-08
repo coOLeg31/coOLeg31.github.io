@@ -1,0 +1,286 @@
+{
+    text-decoration: none;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.menu {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.news_date {
+    margin: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.content {
+    margin: 0 auto;
+}
+
+#cactus1 {
+    margin: 50px auto 0 auto;
+    display: block;
+}
+
+.button {
+    margin: 0 20px;
+    color: #9193a2;
+}
+
+h1 {
+    text-align: center;
+    color: #2C2B2E;
+    font-size: 50px;
+}
+
+h2 {
+    text-align: left;
+    color: #2C2B2E;
+}
+
+.texts {
+    width: 808px;
+    display: block;
+    margin: 0 auto;
+    color: #6E7381;
+    font-size: 20px;
+}
+
+#woman1 {
+    width: 808px;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+
+#cactus2 {
+    width: 395px;
+    height: 465px;
+    border-radius: 3px;
+    display: inline-block;
+    position: relative;
+    bottom: 10px;
+}
+
+.news {
+    display: inline;
+    background: #4746DA;
+    color: white;
+    padding: 10px;
+    margin-right: 5px;
+}
+
+.data {
+    display: inline;
+    color: AEB189;
+    margin-left: 20px;
+}
+
+.text_cactus {
+    display: inline-block;
+    width: 400px;
+    text-align: left;
+}
+
+.author {
+    margin: 100px 0;
+    font-size: 16px;
+}
+
+#avatar {
+    width: 75px;
+    height: 75px;
+    border-radius: 100%;
+    display: inline-block;
+    margin-top: 30px;
+}
+
+.author_name {
+    font-weight: bold;
+    color: black;
+    display: inline-block;
+    position: relative;
+    bottom: 50px;
+    left: 20px;
+}
+
+.author_activity {
+    font-weight: normal;
+    color: #6E7381;
+    font-size: 14px;
+}
+
+.all_news {
+    margin: 0 auto;
+    text-align: center;
+    width: 1000px;
+}
+
+.text_new {
+    order: 3px solid #000;
+}
+
+.items {
+    text-align: center;
+    display: inline-block;
+    border-radius: 15px;
+    margin: 5px 10px;
+    max-width: 300px;
+    height: 400px;
+}
+
+.item_img {
+    display: inline-block;
+    height: 50px;
+    width: 300px;
+}
+
+.kan {
+    height: 200px;
+    width: 100%;
+    margin-top: 40px;
+    border-radius: 20px;
+}
+.item_news {
+    padding: 10px 10px;
+    text-align: center;
+    margin-left: 50px;
+    position: relative;
+    bottom: 15px;
+    width: 25%;
+    background-color: #4746DA;
+}
+
+.low_text {
+    margin-left: 40px;
+    padding: 10px;
+    text-align: left;
+}
+
+.name_ava {
+    display: inline-block;
+    background: #00d2ff;
+    padding: 10px;
+    border-radius: 100%;
+    width: 7%;
+}
+
+#h2 {
+    text-align: center;
+}
+
+#item_news1 {
+    padding: 10px 10px;
+    text-align: center;
+    margin-left: 50px;
+    position: relative;
+    bottom: 15px;
+    width: 25%;
+    background-color: #C6E2FF;
+}
+
+#item_news2 {
+    padding: 10px 10px;
+    text-align: center;
+    margin-left: 50px;
+    position: relative;
+    bottom: 15px;
+    width: 30%;
+    background-color: #9EB4CC;
+}
+
+.login {
+    background: orang;
+    background: orange;
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    width: 100vw;
+    margin-left: calc(50%-50vw);
+    margin-right: calc(50%-50vw);
+    margin-bottom: calc(50%-50vw);
+    margin-top: calc(50%-50vw);
+    height: 100%;
+    margin-top: 100px;
+}
+
+#text_login {
+    text-align: center;
+    color: white;
+    margin-left: 1%;
+}
+
+.img_login {
+    border-radius: 100%;
+    border: 5px solid black;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    margin-left: 49%;
+}
+
+.login_form {
+    background: orange;
+    margin-top: 50px;
+}
+
+#mail {
+    width: 438px;
+    height: 25px;
+    margin-left: 35%;
+    margin-top: 50px;
+    border-color: black;
+    border-width: 5px;
+    font-family: 'Syne Tactile', sans-serif;
+    font-size: 20pt;
+    display: inline-block;
+    align-items: center;
+}
+
+#name {
+    width: 200px;
+    height: 25px;
+    margin-left: 35%;
+    margin-top: 50px;
+    border-color: black;
+    border-width: 5px;
+    font-family: 'Syne Tactile', sans-serif;
+    font-size: 20pt;
+    display: inline-block;
+    align-items: center;
+}
+
+#password {
+    width: 200px;
+    height: 25px;
+    margin-top: 50px;
+    border-color: black;
+    border-width: 5px;
+    margin-left: 20px;
+    font-family: 'Syne Tactile', sans-serif;
+    font-size: 20pt;
+    display: inline-block;
+}
+
+.a_login {
+    background-color: #00d2ff;
+    margin-left: 50%;
+    border-radius: 5px;
+    border: 3px solid black;
+}
+
+#button_login {
+    margin: auto;
+    width: 80px;
+    height: 40px;
+    justify-content: space-around;
+    border-radius: 10px;
+    display: flex;
+    margin-bottom: 15px;
+    align-items: center;
+    margin-top: 15px;
+    border: 5px solid black;
+}
